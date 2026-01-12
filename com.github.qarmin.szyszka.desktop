@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=System;
+Exec=szyszka
+Icon=com.github.qarmin.szyszka
+StartupWMClass=szyszka
+Terminal=false
+TryExec=szyszka
+Type=Application
+
+Name=Szyszka
+Name[pt_BR]=Renomeador de Arquivos Szyszka
+
+Comment=Simple app to rename files but with powerful rules
+Comment[pt_BR]=O ‘Szyszka’ é uma palavra polonesa, que em idioma português significa ‘pinha’ ou ‘estróbilo’, é um programa que permite renomear vários arquivos de uma uma só vez (renomear arquivos em lote), permite criar várias regras que podem ser combinadas livremente (substituir o texto, recortar o texto, adicionar os textos, adicionar os números, excluir os textos, converter as letras maiúsculas para minúsculas e vice-versa, etc.), criar regras personalizadas, salvar as regras para poderem ser utilizadas em um outro momento, editar e reordenar as regras e os resultados, gerenciar até mesmo centenas de milhares de registros, etc.
+
+Keywords=pinecone;rename;renaming;rules;custom rules;replace text;cut text;add text;add numbers;delete text;convert uppercase to lowercase;
+Keywords[pt_BR]=szyszka;pinecone;pinha;estróbilo;cone;renomear;renomeador;alterar o nome;arquivos;ficheiros;de uma uma só vez;arquivos em lote;criar regras;várias regras;combinar as regras;substituir o texto;recortar o texto;adicionar os textos;adicionar os números;excluir os textos;converter;letras maiúsculas;letras minúsculas;regras personalizadas;salvar as regras;editar;reordenar;resultados;gerenciar;registros;
